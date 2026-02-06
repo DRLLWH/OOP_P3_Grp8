@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>OOP_P3_Grp8</name>
-	<comment></comment>
+	<name>p3_grp8_abstractgameengine-core</name>
+	<comment>Project core created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
-	</buildSpec>
-	<natures>
-=======
-	<name>p3_grp8_abstractgameengine-parent</name>
-	<comment>Project p3_grp8_abstractgameengine-parent created by Buildship.</comment>
-	<projects>
-	</projects>
-	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
 			<arguments>
@@ -21,7 +17,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
->>>>>>> branch 'main' of https://github.com/DRLLWH/OOP_P3_Grp8.git
 	</natures>
 </projectDescription>
